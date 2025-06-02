@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  21 MAY 2025 22:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  2 JUN 2025 21:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -311,45 +311,42 @@ Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@dima=\skip76
 \bigstrutjot=\dimen174
 )
-(C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
-Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip77
-\bibsep=\skip78
-LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count317
-)
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 ) (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count318
+\c@float@type=\count317
 \float@exts=\toks27
 \float@box=\box62
 \@float@everytoks=\toks28
 \@floatcapt=\box63
 )
+(C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.s
+ty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
 -pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count319
+\l__color_backend_stack_int=\count318
 \l__pdf_internal_box=\box64
 ) (manuscript.aux)
 \openout1 = `manuscript.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -398,16 +395,16 @@ Package caption Info: End \AtBeginDocument code.
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
 f.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count320
+\scratchcounter=\count319
 \scratchdimen=\dimen175
 \scratchbox=\box65
-\nofMPsegments=\count321
-\nofMParguments=\count322
+\nofMPsegments=\count320
+\nofMParguments=\count321
 \everyMPshowfont=\toks29
-\MPscratchCnt=\count323
+\MPscratchCnt=\count322
 \MPscratchDim=\dimen176
-\MPnumerator=\count324
-\makeMPintoPDFobject=\count325
+\MPnumerator=\count323
+\makeMPintoPDFobject=\count324
 \everyMPtoPDFconversion=\toks30
 )
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstop
@@ -420,17 +417,17 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 ys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Overfull \hbox (28.95552pt too wide) in paragraph at lines 45--46
+Overfull \hbox (28.95552pt too wide) in paragraph at lines 48--49
 []\OT1/cmr/bx/n/17.28 Machine Learn-ing Es-ti-ma-tion of undrained shear streng
 th
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
 
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
 
 
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -440,26 +437,27 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/RSK Akash/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(manuscript.bbl
 
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
+[2] (manuscript.bbl
 
-)
+[3]
 
-[2] (manuscript.aux)
+[4])
+
+[5] (manuscript.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7019 strings out of 473682
- 117950 string characters out of 5717275
- 524884 words of memory out of 5000000
- 30014 multiletter control sequences out of 15000+600000
- 566131 words of font info for 66 fonts, out of 8000000 for 9000
+ 6718 strings out of 473682
+ 114745 string characters out of 5717275
+ 520015 words of memory out of 5000000
+ 29715 multiletter control sequences out of 15000+600000
+ 567081 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,1238b,194s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,5n,65p,1530b,229s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\RSK Akash\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcrm1200.pk><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmbx10.pfb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/font
@@ -468,11 +466,11 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/RSK Akash/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/RSK Aka
 sh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
 sers/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-5.pfb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr6.pfb>
-Output written on manuscript.pdf (2 pages, 103026 bytes).
+8.pfb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmti12.pfb>
+Output written on manuscript.pdf (5 pages, 123171 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
+ 58 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -14,11 +14,12 @@
 \usepackage{graphicx}
 \usepackage{enumitem}
 \usepackage{multirow}
-\usepackage[numbers]{natbib}
+%\usepackage[numbers]{natbib}
 \usepackage{lscape} % Optional if table is too wide
 %\usepackage{hyperref}
 %\usepackage{lineno}
 \usepackage{float}
+\usepackage{indentfirst}
 
 \captionsetup{
 	labelfont=bf, 
@@ -31,9 +32,11 @@
 \newcolumntype{C}[1]{>{\centering\arraybackslash}m{#1}} 
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}m{#1}} 
-\newcolumntype{J}[1]{>{\arraybackslash}m{#1}} 
+\newcolumntype{J}[1]{>{\arraybackslash}m{#1}}
+ 
 \renewcommand{\baselinestretch}{1.15}
-\setlength{\parindent}{0pt}
+
+\setlength{\parindent}{1.3cm}
 \setlength{\parskip}{1em} 
 
 \begin{document}
@@ -46,11 +49,11 @@
 	\end{justify}
 	
 	\begin{flushleft}
-		\textbf{Viroon Kamchoom  \textsuperscript{a}, Ankit Garg\textsuperscript{b}, Sai krishna Akash Ramineni \textsuperscript{c}, Thanu Harnpattanapanich \textsuperscript{d,e}, Phichet Ratanaprasatkul \textsuperscript{f}}
+		\textbf{Viroon Kamchoom \textsuperscript{a}, Ankit Garg \textsuperscript{b}, Sai krishna Akash Ramineni \textsuperscript{c}, Thanu Harnpattanapanich \textsuperscript{d,e}, Phichet Ratanaprasatkul \textsuperscript{f}}
 	\end{flushleft}
 	
 	\begin{flushleft}
-		{\tiny {\textsuperscript{a}Excellent centre for green and sustainable infrastructure, Department of Civil Engineering, School of Engineering, King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand \\ 
+		{\small {\textsuperscript{a}Excellent centre for green and sustainable infrastructure, Department of Civil Engineering, School of Engineering, King Mongkut's Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand \\ 
 				\textsuperscript{b}University in Shantou, Shantou, China \\ 
 				\textsuperscript{c}Undergraduate, Department of Civil Engineering at IIT Indore, Indore city, Madhya Pradesh, Postal code- 453552, India \\
 				\textsuperscript{d} Geotech Pillar co., ltd, Bangkok, Thailand \\
@@ -66,6 +69,12 @@
 	\hspace{0.4cm} \textbf{Keywords:} 
 	
 	\section{Introduction}
+	
+	Undrained shear strength (Su), representing the maximum shear stress soil can sustain under undrained conditions, is critical for assessing the short-term stability of geotechnical structures such as foundations and slopes \cite{doi:10.1680/geot.1984.34.4.449}. Its determination traditionally relies on laboratory tests like unconsolidated undrained triaxial and falling cone methods, which face limitations in replicating in-situ stress conditions and microstructure, particularly in complex deposits like Bangkok clay \cite{doi:10.1680/geot.1984.34.4.449,10.1520/GTJ20170127}. While correlations with standard penetration test (SPT) and cone penetration test (CPT) data offer practical alternatives, these methods require site-specific calibration and exhibit substantial uncertainties, with SPT showing poor reliability in soft clays \cite{ma15186385,10.1520/GTJ20170127,Sepúlveda28052025}. Hydrogeological factors, including pore pressure variations, can alter su ratios by over 10\%, emphasizing the need for precise, context-sensitive analyses \cite{belcavello2024influence}.
+	
+	Bangkok clay presents one of the most challenging geotechnical materials encountered in modern engineering practice, characterized by complex mineralogical composition and highly variable engineering properties that have long troubled infrastructure development in Thailand and similar marine alluvial environments worldwide \cite{phai2019,Pithan_Pairojn_2020}. Recent advances in machine learning technologies have emerged as promising solutions for accurately predicting the undrained shear strength of this problematic soil, offering significant improvements over traditional empirical methods and laboratory testing approaches \cite{app121910177,Demir_Sahin_2024,doi:10.1177/03611981241278354}. Contemporary research demonstrates that sophisticated machine learning models, including hybrid stacking algorithms, random forest, support vector regression, and ensemble methods, can achieve prediction accuracies ranging from 51\% to over 87\% when properly calibrated with comprehensive geotechnical datasets \cite{Demir_Sahin_2024,doi:10.1177/03611981241278354,su12062218}. The integration of advanced data preprocessing techniques, Bayesian optimization algorithms, and multi-algorithm approaches has shown particular promise in addressing the inherent variability and complex behavior of Bangkok clay, while providing more efficient and cost-effective alternatives to extensive field investigation programs \cite{Demir_Sahin_2024,doi:10.1177/03611981241278354,app13095418}.
+	
+	The clay formation extends to depths of up to 80 meters beneath Bangkok city, with distinct stratifications: a soft, meta-stable layer (4–11 m depth), a stiff clay layer (12–24 m), and deeper hard clay layers, each exhibiting unique microstructural behaviors influenced by geological processes such as sea-level fluctuations and loading-unloading cycles \cite{Krit_Saowiang_Pham_Huy_Giao_2019}. The predominant clay mineral is high-swelling smectite, differentiating it from low-swelling smectite clays like Ariake, and contributing to its high plasticity (liquid limit: 100–140\%, activity: 1.25–1.90) and significant volume change potential \cite{OHTSUBO200011}.These properties, combined with complex responses to chemical treatments and cation exchange, necessitate specialized soil improvement techniques such as Liquefied Stabilized Soil (LSS), Controlled Low Strength Material (CLSM), and liquefied rubber applications to address infrastructure challenges, particularly in pipeline construction \cite{Prum_Jumnongpol_Eamchotchawalit_Kantiwattanakul_Sooksatra_Jarearnsiri_Passananon_2019}
 	
 	\section{Material and Methods}
 	
@@ -85,7 +94,7 @@
 	
 	The first author (V. Kamchoom) would like to thank the grant under Climate Change and Climate Variability Research in Monsoon Asia (CMONA) from National Research Council of Thailand (NRCT) and the National Natural Science Foundation of China (NSFC). The second author (A. Garg) thanks the grant XXX provided by XXX. 
 	
-	\bibliographystyle{unsrtnat}
+	\bibliographystyle{unsrt}
 	\bibliography{reference.bib}
 	
 \end{document}

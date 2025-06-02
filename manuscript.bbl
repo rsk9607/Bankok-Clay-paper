@@ -1,8 +1,103 @@
-\begin{thebibliography}{0}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{10}
+
+\bibitem{doi:10.1680/geot.1984.34.4.449}
+C.~P. Wroth.
+\newblock The interpretation of in situ soil tests.
+\newblock {\em Géotechnique}, 34(4):449--489, 1984.
+
+\bibitem{10.1520/GTJ20170127}
+Soumyaranjan Mishra and Retnamony~G. Robinson.
+\newblock Laboratory investigation on quasi-static penetration testing using
+  spt sampler in soft clay bed.
+\newblock {\em Geotechnical Testing Journal}, 42(4):985--1005, 09 2018.
+
+\bibitem{ma15186385}
+Mintae Kim, Osman Okuyucu, Ertuğrul Ordu, Seyma Ordu, Özkan Arslan, and
+  Junyoung Ko.
+\newblock Prediction of undrained shear strength by the gmdh-type neural
+  network using spt-value and soil physical properties.
+\newblock {\em Materials}, 15(18), 2022.
+
+\bibitem{Sepúlveda28052025}
+Alejandro Sepúlveda, Fausto~A. Canales, Carlos Acosta, and Jose~Duque and.
+\newblock Correlations for undrained shear strength of fine-grained soils with
+  spt-values: literature review and uncertainty analysis.
+\newblock {\em International Journal of Geotechnical Engineering},
+  19(5):315--327, 2025.
+
+\bibitem{belcavello2024influence}
+Ingrid Belcavello and Lucas Deleon.
+\newblock Influence of hydrogeological conditions on estimation of undrained
+  shear strength by cptu tests: case study in a tropical soil.
+\newblock In {\em Proceedings of the 7th International Conference on
+  Geotechnical and Geophysical Site Characterization}, volume~18, page~21,
+  2024.
+
+\bibitem{phai2019}
+Hengchhorn Phai and Amin Eisazadeh.
+\newblock Compaction properties of rice husk ash-lime-bangkok clay mixtures.
+\newblock In {\em Advanced Materials Research IX}, volume 803 of {\em Key
+  Engineering Materials}, pages 331--337. Trans Tech Publications Ltd, 6 2019.
+
+\bibitem{Pithan_Pairojn_2020}
+Pithan Pairojn.
+\newblock The increasing of undrained shear strength and shear modulus of soft
+  bangkok clay by silica powder using unconfined compression test with bender
+  element.
+\newblock {\em GEOMATE Journal}, 18(69):118–123, May 2020.
+
+\bibitem{app121910177}
+Mohamed B.~D. Elsawy, Mohammed~F. Alsharekh, and Mahmoud Shaban.
+\newblock Modeling undrained shear strength of sensitive alluvial soft clay
+  using machine learning approach.
+\newblock {\em Applied Sciences}, 12(19), 2022.
+
+\bibitem{Demir_Sahin_2024}
+Selçuk Demir and Emrehan~Kutlug Sahin.
+\newblock The effectiveness of data pre-processing methods on the performance
+  of machine learning techniques using rf, svr, cubist and sgb: a study on
+  undrained shear strength prediction.
+\newblock {\em Stochastic Environmental Research and Risk Assessment},
+  38(8):3273–3290, jun 2024.
+
+\bibitem{doi:10.1177/03611981241278354}
+Chenghang Zhang and Mingyue Chen.
+\newblock Prediction of undrained shear strength utilizing a hybrid stacking
+  model enhanced by bayesian optimization algorithm.
+\newblock {\em Transportation Research Record}, 0(0):03611981241278354, 0.
+
+\bibitem{su12062218}
+Binh~Thai Pham, Chongchong Qi, Lanh~Si Ho, Trung Nguyen-Thoi, Nadhir Al-Ansari,
+  Manh~Duc Nguyen, Huu~Duy Nguyen, Hai-Bang Ly, Hiep~Van Le, and Indra Prakash.
+\newblock A novel hybrid soft computing model using random forest and particle
+  swarm optimization for estimation of undrained shear strength of soil.
+\newblock {\em Sustainability}, 12(6), 2020.
+
+\bibitem{app13095418}
+Huajian Yang, Zhikui Liu, Yuantao Li, Haixia Wei, and Nengsheng Huang.
+\newblock Catboost–bayesian hybrid model adaptively coupled with modified
+  theoretical equations for estimating the undrained shear strength of clay.
+\newblock {\em Applied Sciences}, 13(9), 2023.
+
+\bibitem{Krit_Saowiang_Pham_Huy_Giao_2019}
+Krit Saowiang and Pham~Huy Giao.
+\newblock Sea-level related engineering geology and intrinsic compression
+  behaviour of bangkok clays.
+\newblock {\em GEOMATE Journal}, 17(59):144–153, Jul. 2019.
+
+\bibitem{OHTSUBO200011}
+Masami Ohtsubo, Kazuhiko Egashira, Tatsuya Koumoto, and Dennes~T. Bergado.
+\newblock Mineralogy and chemistry, and their correlation with the geotechnical
+  index properties of bangkok clay: Comparison with ariake clay.
+\newblock {\em Soils and Foundations}, 40(1):11--21, 2000.
+
+\bibitem{Prum_Jumnongpol_Eamchotchawalit_Kantiwattanakul_Sooksatra_Jarearnsiri_Passananon_2019}
+Sideth Prum, Nalinee Jumnongpol, Chutima Eamchotchawalit, Pisit
+  Kantiwattanakul, Vannee Sooksatra, Thanatip~Thanatip Jarearnsiri, and Somsak
+  Passananon.
+\newblock Guideline for backfill material improvement for water supply pipeline
+  construction on bangkok clay, thailand.
+\newblock {\em Proceedings of the World Congress on Civil, Structural, and
+  Environmental Engineering}, April 2019.
 
 \end{thebibliography}
