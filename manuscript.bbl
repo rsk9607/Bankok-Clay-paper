@@ -107,4 +107,65 @@ Binh~Thai Pham, Le~Hoang Son, Tuan-Anh Hoang, Duc-Manh Nguyen, and Dieu {Tien
   methods.
 \newblock {\em CATENA}, 166:181--191, 2018.
 
+\bibitem{Tran_Ho_Van_Le_Prakash_Pham_2022}
+Quoc~Anh Tran, Lanh~Si Ho, Hiep Van~Le, Indra Prakash, and Binh~Thai Pham.
+\newblock Estimation of the undrained shear strength of sensitive clays using
+  optimized inference intelligence system.
+\newblock {\em Neural Computing and Applications}, 34(10):7835–7849, January
+  2022.
+
+\bibitem{20210135}
+Wengang Zhang, Chongzhi Wu, Haiyi Zhong, Yongqin Li, and Lin Wang.
+\newblock Prediction of undrained shear strength using extreme gradient
+  boosting and random forest based on bayesian optimization.
+\newblock {\em Geoscience Frontiers}, 12(1):469--477, 2021.
+
+\bibitem{kotsiantis2006data}
+Sotiris~B Kotsiantis, Dimitris Kanellopoulos, and Panagiotis~E Pintelas.
+\newblock Data preprocessing for supervised leaning.
+\newblock {\em International journal of computer science}, 1(2):111--117, 2006.
+
+\bibitem{García_Ramírez-Gallego_Luengo_Benítez_Herrera_2016}
+Salvador García, Sergio Ramírez-Gallego, Julián Luengo, José~Manuel
+  Benítez, and Francisco Herrera.
+\newblock Big data preprocessing: methods and prospects.
+\newblock {\em Big Data Analytics}, 1(1), September 2016.
+
+\bibitem{6726842}
+G.~Kesavaraj and S.~Sukumaran.
+\newblock A study on classification techniques in data mining.
+\newblock In {\em 2013 Fourth International Conference on Computing,
+  Communications and Networking Technologies (ICCCNT)}, pages 1--7, 2013.
+
+\bibitem{10675076}
+Van~Trieu Vy~Nguyen, Song~Thanh Quynh~Le, and Duc~Duy Nguyen.
+\newblock Artificial intelligence models for overall equipment effectiveness
+  prediction: A case study in an assembly manufacturing company.
+\newblock In {\em 2024 7th International Conference on Green Technology and
+  Sustainable Development (GTSD)}, pages 67--71, 2024.
+
+\bibitem{10934398}
+Sowmya Christina, S~Sowjanya, Ch. Lakshmhyma, L~Prathiba, and Md~Shaik
+  Amzad~Basha.
+\newblock Data-driven insights into student performance: Benchmarking machine
+  learning models for grade prediction using regression and classification
+  approaches.
+\newblock In {\em 2025 International Conference on Intelligent Systems and
+  Computational Networks (ICISCN)}, pages 1--6, 2025.
+
+\bibitem{10958701}
+Nidhi~Haribhau Gaikwad, Arghya Mitra, Jangilwar Payal, Soumyabrata Das, and
+  Ritesh~Kumar Keshri.
+\newblock Impact of data preprocessing on wind forecasting using machine
+  learning techniques.
+\newblock In {\em 2025 Fourth International Conference on Power, Control and
+  Computing Technologies (ICPC2T)}, pages 1--6, 2025.
+
+\bibitem{Kumar_Khan_Singh_2024}
+Ankur Kumar, Asim~Ali Khan, and Jaspreet Singh.
+\newblock Enhancing the diagnosis of cardiovascular disease: A comparative
+  examination of support vector machine and artificial neural network models
+  utilizing extensive data preprocessing techniques.
+\newblock {\em WSEAS TRANSACTIONS ON COMPUTERS}, 23:318–327, December 2024.
+
 \end{thebibliography}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  3 JUN 2025 22:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.12.12)  9 JUN 2025 15:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -313,13 +313,50 @@ Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 )
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-) (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2025/01/29 line numbers on paragraphs v5.4
+
+(C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.s
+ty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count317
+)
+(C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions
+.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.s
+ty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys
+.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+\linenopenalty=\count318
+\output=\toks27
+\linenoprevgraf=\count319
+\linenumbersep=\dimen175
+\linenumberwidth=\dimen176
+\c@linenumber=\count320
+\c@pagewiselinenumber=\count321
+\c@LN@truepage=\count322
+\c@internallinenumber=\count323
+\c@internallinenumbers=\count324
+\quotelinenumbersep=\dimen177
+\bframerule=\dimen178
+\bframesep=\dimen179
+\bframebox=\box62
+\@LN@amsmath@ams@eqpen=\count325
+LaTeX Info: Redefining \\ on input line 3187.
+)
+(C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count317
-\float@exts=\toks27
-\float@box=\box62
-\@float@everytoks=\toks28
-\@floatcapt=\box63
+\c@float@type=\count326
+\float@exts=\toks28
+\float@box=\box63
+\@float@everytoks=\toks29
+\@floatcapt=\box64
 )
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.s
 ty
@@ -328,25 +365,25 @@ Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
 -pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count318
-\l__pdf_internal_box=\box64
+\l__color_backend_stack_int=\count327
+\l__pdf_internal_box=\box65
 ) (manuscript.aux)
 \openout1 = `manuscript.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -395,17 +432,17 @@ Package caption Info: End \AtBeginDocument code.
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
 f.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count319
-\scratchdimen=\dimen175
-\scratchbox=\box65
-\nofMPsegments=\count320
-\nofMParguments=\count321
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count322
-\MPscratchDim=\dimen176
-\MPnumerator=\count323
-\makeMPintoPDFobject=\count324
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count328
+\scratchdimen=\dimen180
+\scratchbox=\box66
+\nofMPsegments=\count329
+\nofMParguments=\count330
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen181
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
+\everyMPtoPDFconversion=\toks31
 )
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstop
 df-base.sty
@@ -417,17 +454,17 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 ys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Overfull \hbox (28.95552pt too wide) in paragraph at lines 48--49
+Overfull \hbox (28.95552pt too wide) in paragraph at lines 50--51
 []\OT1/cmr/bx/n/17.28 Machine Learn-ing Es-ti-ma-tion of undrained shear streng
 th
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 54.
 
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 52.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 54.
 
 
 (C:\Users\RSK Akash\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -440,37 +477,94 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 [2]
 
-[3] (manuscript.bbl
+[3]
+<site location.jpg, id=20, 599.99156pt x 588.69937pt>
+File: site location.jpg Graphic file (type jpg)
+<use site location.jpg>
+Package pdftex.def Info: site location.jpg  used on input line 101.
+(pdftex.def)             Requested size: 339.7262pt x 333.34337pt.
 
-[4])
 
-[5] (manuscript.aux)
+[4 <./site location.jpg>]
+Overfull \hbox (2.35945pt too wide) in paragraph at lines 114--115
+[]  \OT1/cmr/m/n/12 In this study, fea-tures were stan-dard-ized us-ing the \OT
+1/cmr/m/it/12 Stan-dard Scaler \OT1/cmr/m/n/12 method,
+ []
+
+
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 155--156
+[]\OT1/cmr/m/n/8 Linearity and ho-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+[]\OT1/cmr/m/n/8 Control depth and
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 223--224
+[]\OT1/cmr/m/n/8 Distance met-ric (Eu-
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 233--234
+[]\OT1/cmr/m/n/8 Hyperparameter tun-
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 245--246
+[]\OT1/cmr/m/n/8 Layers: 3; Neu-rons:
+ []
+
+[6] [7] (manuscript.bbl
+
+[8]
+
+[9]
+
+[10])
+
+[11] (manuscript.aux)
  ***********
 LaTeX2e <2024-11-01>
 L3 programming layer <2024-11-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6719 strings out of 473682
- 114758 string characters out of 5717275
- 521020 words of memory out of 5000000
- 29716 multiletter control sequences out of 15000+600000
- 567081 words of font info for 69 fonts, out of 8000000 for 9000
+ 7722 strings out of 473682
+ 130771 string characters out of 5717275
+ 557801 words of memory out of 5000000
+ 30695 multiletter control sequences out of 15000+600000
+ 568363 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,1530b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,20n,65p,1530b,399s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\RSK Akash\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-tcrm1200.pk><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmbx10.pfb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/RSK Akash/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/RSK Akash/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/RSK Aka
-sh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
-sers/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr
-8.pfb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmti12.pfb>
-Output written on manuscript.pdf (5 pages, 125051 bytes).
+tcrm0800.pk> <C:\Users\RSK Akash\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
+ec/dpi600\tcrm1200.pk><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmbx10.pfb><C:/Users/RSK Akash/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/RSK Akash/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/RSK Akash
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C
+:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmi12.pfb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmmi5.pfb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/RSK Akash/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/RSK Akash/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/RSK Akash/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/User
+s/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.p
+fb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmr8.pfb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmss8.pfb><C:/Users/RSK Akash/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/RSK Akash/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/RSK Akash/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/RSK Ak
+ash/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on manuscript.pdf (11 pages, 666907 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
+ 134 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
